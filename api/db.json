@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "cím": "Almalé",
+      "szerző": "Nagy Jóska",
+      "ár": 1
+    },
+    {
+      "id": 2,
+      "cím": "Körtelé",
+      "szerző": "Kis Pista",
+      "ár": 5
+    },
+    {
+      "id": 3,
+      "cím": "Vuk",
+      "szerző": "Erős István",
+      "ár": 5
+    },
+    {
+      "id": 4,
+      "cím": "Gangsta Rap Coloring Book",
+      "szerző": "Aye Jay",
+      "ár": 16
+    }
+  ]
+}

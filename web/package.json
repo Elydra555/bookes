@@ -1,0 +1,19 @@
+{
+  "name": "bookes_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --config bs-config.json",
+    "build": "gulp"
+  },
+  "author": "Klíber Regő Benedek",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "browser-sync": "^3.0.2",
+    "gulp": "^5.0.0"
+  }
+}
